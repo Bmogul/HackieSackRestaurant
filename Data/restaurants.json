@@ -1,0 +1,184 @@
+[
+  {
+    "id": "r1",
+    "name": "Bella Italia",
+    "cuisine": "Italian",
+    "location": "Downtown",
+    "price_range": "$$$",
+    "rating": 4.1,
+    "dietary_options": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "hours": {
+      "dinner": "5:00pm-10:00pm",
+      "lunch": "11:30am-2:30pm"
+    },
+    "phone": "(555) 546-2803",
+    "address": "450 Downtown Street",
+    "features": [
+      "romantic ambiance",
+      "wine bar",
+      "pasta made fresh daily",
+      "outdoor patio"
+    ],
+    "popular_dishes": [
+      "Truffle Carbonara",
+      "Osso Buco",
+      "Margherita Pizza",
+      "Tiramisu"
+    ],
+    "average_price_per_person": "$40-70",
+    "reservations_required": true,
+    "outdoor_seating": false,
+    "private_dining": true,
+    "takeout_available": true,
+    "delivery_available": false
+  },
+  {
+    "id": "r2",
+    "name": "Sakura Sushi",
+    "cuisine": "Japanese",
+    "location": "Midtown",
+    "price_range": "$$",
+    "rating": 4.3,
+    "dietary_options": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "hours": {
+      "dinner": "5:00pm-10:00pm",
+      "lunch": "11:30am-2:30pm"
+    },
+    "phone": "(555) 825-4311",
+    "address": "809 Midtown Street",
+    "features": [
+      "sushi bar seating",
+      "sake selection",
+      "omakase available",
+      "authentic Japanese"
+    ],
+    "popular_dishes": [
+      "Omakase",
+      "Spicy Tuna Roll",
+      "Ramen",
+      "Tempura"
+    ],
+    "average_price_per_person": "$20-40",
+    "reservations_required": false,
+    "outdoor_seating": true,
+    "private_dining": false,
+    "takeout_available": true,
+    "delivery_available": true
+  },
+  {
+    "id": "r3",
+    "name": "The Steakhouse Prime",
+    "cuisine": "American Steakhouse",
+    "location": "Uptown",
+    "price_range": "$$$$",
+    "rating": 4.4,
+    "dietary_options": [
+      "gluten-free"
+    ],
+    "hours": {
+      "dinner": "5:00pm-10:00pm",
+      "lunch": "11:30am-2:30pm"
+    },
+    "phone": "(555) 856-2531",
+    "address": "963 Uptown Street",
+    "features": [
+      "dry-aged beef",
+      "wine cellar",
+      "private dining rooms",
+      "valet parking"
+    ],
+    "popular_dishes": [
+      "Ribeye Steak",
+      "Filet Mignon",
+      "Lobster Tail",
+      "NY Cheesecake"
+    ],
+    "average_price_per_person": "$70-150",
+    "reservations_required": true,
+    "outdoor_seating": true,
+    "private_dining": true,
+    "takeout_available": true,
+    "delivery_available": true
+  },
+  {
+    "id": "r4",
+    "name": "Spice of India",
+    "cuisine": "Indian",
+    "location": "West End",
+    "price_range": "$$",
+    "rating": 4.1,
+    "dietary_options": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "hours": {
+      "dinner": "5:00pm-10:00pm",
+      "lunch": "11:30am-2:30pm"
+    },
+    "phone": "(555) 606-7272",
+    "address": "665 West End Street",
+    "features": [
+      "tandoor oven",
+      "lunch buffet",
+      "authentic spices",
+      "family-owned"
+    ],
+    "popular_dishes": [
+      "Chicken Tikka Masala",
+      "Palak Paneer",
+      "Biryani",
+      "Naan Bread"
+    ],
+    "average_price_per_person": "$20-40",
+    "reservations_required": false,
+    "outdoor_seating": false,
+    "private_dining": false,
+    "takeout_available": true,
+    "delivery_available": true
+  },
+  {
+    "id": "r5",
+    "name": "Le Bistro",
+    "cuisine": "French",
+    "location": "Historic District",
+    "price_range": "$$$",
+    "rating": 4.5,
+    "dietary_options": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "hours": {
+      "dinner": "5:00pm-10:00pm",
+      "lunch": "11:30am-2:30pm"
+    },
+    "phone": "(555) 903-5960",
+    "address": "858 Historic District Street",
+    "features": [
+      "french wine list",
+      "outdoor seating",
+      "romantic setting",
+      "chef-owned"
+    ],
+    "popular_dishes": [
+      "Coq au Vin",
+      "Bouillabaisse",
+      "Crème Brûlée",
+      "Escargot"
+    ],
+    "average_price_per_person": "$40-70",
+    "reservations_required": true,
+    "outdoor_seating": true,
+    "private_dining": true,
+    "takeout_available": true,
+    "delivery_available": true
+  }
+]
