@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "restaurant-booking-server": {
+      "command": "python",
+      "args": [
+        "-m",
+        "server"
+      ],
+      "description": "Restaurant Booking System with search, availability, RAG, and booking management",
+      "capabilities": {
+        "tools": [
+          {
+            "name": "search_restaurants",
+            "description": "Search and filter restaurants by cuisine, location, price range, dietary options, and rating"
+          },
+          {
+            "name": "check_availability",
+            "description": "Check table availability for a specific restaurant at a given date and time"
+          },
+          {
+            "name": "query_knowledge_base",
+            "description": "RAG tool - Search restaurant documents and knowledge base using semantic search. Query restaurant information, menus, reviews, and features."
+          },
+          {
+            "name": "make_reservation",
+            "description": "Create a new restaurant reservation with customer details"
+          },
+          {
+            "name": "manage_booking_state",
+            "description": "Read or update booking state - retrieve booking details or cancel reservations"
+          }
+        ]
+      },
+      "env": {}
+    }
+  }
+}
