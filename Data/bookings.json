@@ -24,5 +24,18 @@
     "special_requests": null,
     "status": "cancelled",
     "created_at": "2025-11-02T17:56:14.479475"
+  },
+  {
+    "booking_id": "BK20251102182403LISA",
+    "restaurant_id": "r5",
+    "restaurant_name": "Le Bistro",
+    "date": "2025-11-10",
+    "time": "19:00",
+    "party_size": 2,
+    "customer_name": "Mogul",
+    "customer_phone": "7324706609",
+    "special_requests": null,
+    "status": "cancelled",
+    "created_at": "2025-11-02T18:24:03.831753"
   }
 ]
